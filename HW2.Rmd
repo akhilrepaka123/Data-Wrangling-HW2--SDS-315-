@@ -19,7 +19,7 @@ bikeshare <- read.csv('bikeshare.csv')
 capmetro_UT <- read.csv('capmetro_UT.csv')
 billboard <- read.csv('billboard.csv')
 ```
-
+\vspace{1.5cm}
 
 Question 1: Beauty, or not, in the classroom
 
